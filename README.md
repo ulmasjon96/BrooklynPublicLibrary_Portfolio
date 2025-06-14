@@ -1,9 +1,13 @@
 # 📚 Brooklyn Public Library
 
 🎨 **Loyiha turi:** Front-End veb-ilova
+
 🌍 **Demo:** [Brooklyn Public Library](https://fluffy-khapse-3b2506.netlify.app/#favorites)
+
 🛠 **Texnologiyalar:** HTML5, SCSS, JavaScript
+
 📁 **Loyiha holati:** Yakunlangan
+
 📅 **Yaratilgan:** 2025
 
 ---
